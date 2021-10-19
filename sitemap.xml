@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ashishkhuraishy.github.io/blog/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/tags/go/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/posts/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/tags/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/posts/simple-json-parser/</loc>
+    <lastmod>2020-04-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/about/</loc>
+  </url><url>
+    <loc>https://ashishkhuraishy.github.io/blog/categories/</loc>
+  </url>
+</urlset>
