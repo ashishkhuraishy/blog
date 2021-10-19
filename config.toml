@@ -27,7 +27,7 @@ url = "https://twitter.com/ashishkhuraishy/"
 [[params.social]]
 name = "Email"
 icon = "mail"
-url = "ashishkhuraishy@gmail.com"
+url = "mailto:ashishkhuraishy@gmail.com"
 
 # Main menu Items
 [[menu.main]]
