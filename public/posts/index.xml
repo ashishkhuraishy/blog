@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ashish&#39;s Blog</title>
+    <link>https://ashishkhuraishy.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Ashish&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ashish</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate><atom:link href="https://ashishkhuraishy.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing a Simple JSON Parser In Go</title>
+      <link>https://ashishkhuraishy.github.io/blog/posts/simple-json-parser/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      
+      <guid>https://ashishkhuraishy.github.io/blog/posts/simple-json-parser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
